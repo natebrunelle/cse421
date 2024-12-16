@@ -1,0 +1,220 @@
+Special Dates:
+  Courses begin: 2024-09-25
+  Courses end: 2024-12-06
+  Veterans Day: 2024-11-11
+  Thanksgiving Day: 2024-11-28
+  Native American Heritage Day: 2024-11-29
+  Midterm Exam: 2024-11-01
+  Final Exam: 2024-12-12
+meta:
+  timezone: America/New_York
+  name: Algorithms
+  lecture exam: true
+  home: https://www.cs.virginia.edu/~njb2b/cs3100/s23/
+  final:
+    start: 2024-12-12 08:30:00
+    duration: 110
+    room: NA
+
+sections:
+  Lecture:
+    type: lecture
+    room: Gilmer 301
+    days: [Monday, Wednesday, Friday]
+    start: 14:00:00
+    duration: 50
+  Lab:
+    type: lab
+    room: Various
+    days: [Thursday]
+    start: 24:00:00
+    duration: 1439
+
+labs:
+    days: [Thursday]
+
+
+lectures:
+    - Intro; ADTs; Stacks & Queues
+    - Algorithm Analysis 1
+    - Algorithm Analysis 2
+    - Algorithm Analysis 3
+    - Recurrences
+    - Priority Queues 1 (ADT)
+    - Priority Queues 2 (Binary Heap)
+    - Dictionaries (ADT & Binary Search Trees)
+    - Dictionaries (AVL Trees 1)
+    - Dictionaries (AVL Trees 2)
+    - Dictionaries (Hashing)
+    - Dictionaries (Hashing 2)
+    - Dictionaries (Hashing 3)
+    - Sorting 1
+    - Sorting 2
+    - Decision Trees
+    - Graphs 1 (Intro to Graphs)
+    - Graphs 2 (Traversals)
+    - Graphs 3 (Shortest path)
+    - Parallelism 1 (Fork-Join)
+    - Parallelism 2 (Parallel Prefix)
+    - Parallel Analysis & Amdahl's Law
+    - Synchronization (Locks)
+    - Synchronization (Race Conditions)
+    - Synchronization (Deadlock & Wisdom)
+    - Minimum Spanning Trees
+    - Complexity Classes
+    - P, NP, NP-Complete
+    - Finale
+
+labs:
+    - S1 Intros, Java Generics
+    - S2 Asymptotics
+    - S3 Recurrences
+    - S4 AVL Trees
+    - S5 Hashing
+    - S6 Sorting
+    - S7 Graphs
+    - S8 ForkJoin 
+    - S9 Concurrency & Two-Pass parallel
+    - S10 P/NP & Final Review
+
+reading:
+    Intro; ADTs; Stacks & Queues:
+        - "Weiss 3.1-3.7"
+    Algorithm Analysis 1:
+        - "Weiss 2.1-2.4, Math Review: Weiss 1.1-1.6"
+    Algorithm Analysis 2:
+        - "Weiss 2.1-2.4, Math Review: Weiss 1.1-1.6"
+    Priority Queues 1 (ADT):
+        - "Weiss 6.1-6.3"
+    Priority Queues 2 (Binary Heap):
+        - "Weiss 6.4-6.5"
+    Algorithm Analysis 3:
+        - "Weiss 2.1-2.4"
+    Dictionaries 1 (ADT & Binary Search Trees):
+        - "Weiss 4.1-4.3, 4.6"
+    Dictionries 2 (AVL Trees):
+            - " Weiss 4.4"
+    Dictionaries 3 (B-Trees):
+        - "Weiss 4.7"
+    Dictionaries 4 (B-Trees cont.):
+        - "Weiss 4.7"
+    Dictionaries 5 (Hashing):
+        - "Weiss 5.1-5.5"
+    Dictionaries 6 (Hashing cont.):
+        - "Weiss 5.1-5.5"
+
+assignments:
+    ".groups":
+        quiz:
+            portion: "40"
+        programming:
+            portion: "30"
+            drop: 2
+        written:
+            portion: "30"
+            
+    Prelim Survey:
+        group: programming
+        due: 2024-01-05 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.pdf'        
+            
+    EX0 Generics:
+        group: programming
+        due: 2024-10-02 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+        
+    EX1 Running Time:
+        group: programming
+        due: 2024-10-09 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+       
+    EX2 Recurrences:
+        group: programming
+        due: 2024-10-16 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    EX3 Heaps:
+        group: programming
+        due: 2024-10-18 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+        
+    EX4 AVL:
+        group: programming
+        due: 2024-10-23 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    EX5 Hashing:
+        group: programming
+        due: 2024-10-30 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+
+    EX6 Sorting:
+        group: programming
+        due: 2024-11-06 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    EX7 Graph Traversals:
+        group: programming
+        due: 2024-11-13 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+        
+    EX8 Shortest Paths:
+        group: programming
+        due: 2024-11-22 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+    
+    EX11 MSTs:
+        group: programming
+        due: 2024-12-04 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+
+    EX9 ForkJoin: 
+        group: programming
+        due: 2024-11-25 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+
+    EX10 Concurrency:
+        group: programming
+        due: 2024-12-02 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+
+    EX12 P and NP:
+        group: programming
+        due: 2024-12-06 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
+        weight: 1
+        files: 'something.java'
+
+    Resub1:
+        group: programming
+        due: 2024-07-29 23:59:00
+
+    Resub2:
+        group: programming
+        due: 2024-08-17 23:59:00
