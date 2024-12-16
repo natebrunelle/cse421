@@ -55,7 +55,6 @@ lectures:
     - Applications of MaxFlow/Mincut 1
     - Applications of MaxFlow/Mincut 2
     - Linear Programming 1
-    - Linear Programming 2; LP solvers
     - Linear Programming 3; Duality
     - NP-Completeness 1
 
@@ -64,6 +63,11 @@ labs:
     - S2 Graph Search; Asymptotics
     - S3 Problem Solving Strategy - Greedy
     - S4 Problem Solving Strategy - Divide and Conquer
+    - S5 Problem Solving Strategy - Dynamic Programming
+    - S6 Midterm Review
+    - S7 Network Flow
+    - S8 Algorithm Toolbox - Linear Programming
+    - S9 NP Completeness
 
 reading:
     Intro; ADTs; Stacks & Queues:
