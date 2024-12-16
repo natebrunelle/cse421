@@ -1,9 +1,8 @@
 Special Dates:
-  Courses begin: 2024-09-25
-  Courses end: 2024-12-06
-  Veterans Day: 2024-11-11
-  Thanksgiving Day: 2024-11-28
-  Native American Heritage Day: 2024-11-29
+  Courses begin: 2025-01-06
+  Courses end: 2024-03-14
+  MLK Day: 2024-01-20
+  Presidents Day: 2024-02-17
   Midterm Exam: 2024-11-01
   Final Exam: 2024-12-12
 meta:
@@ -35,47 +34,26 @@ labs:
 
 
 lectures:
-    - Intro; ADTs; Stacks & Queues
-    - Algorithm Analysis 1
-    - Algorithm Analysis 2
-    - Algorithm Analysis 3
-    - Recurrences
-    - Priority Queues 1 (ADT)
-    - Priority Queues 2 (Binary Heap)
-    - Dictionaries (ADT & Binary Search Trees)
-    - Dictionaries (AVL Trees 1)
-    - Dictionaries (AVL Trees 2)
-    - Dictionaries (Hashing)
-    - Dictionaries (Hashing 2)
-    - Dictionaries (Hashing 3)
-    - Sorting 1
-    - Sorting 2
-    - Decision Trees
-    - Graphs 1 (Intro to Graphs)
-    - Graphs 2 (Traversals)
-    - Graphs 3 (Shortest path)
-    - Parallelism 1 (Fork-Join)
-    - Parallelism 2 (Parallel Prefix)
-    - Parallel Analysis & Amdahl's Law
-    - Synchronization (Locks)
-    - Synchronization (Race Conditions)
-    - Synchronization (Deadlock & Wisdom)
+    - Intro; Stable Matching
+    - Stable Matching, Overview
+    - Overview, Graph Traversal (BFS)
+    - Graph Traversal (DFS & Applications); Topological Sort
+    - Greedy Algorithms 1
+    - Greedy Algorithms 2; Dijkstra's algorthm
     - Minimum Spanning Trees
-    - Complexity Classes
-    - P, NP, NP-Complete
-    - Finale
+    - Divide and Conquer
+    - Multiplication (Matrix, Integer, Polynomia)
+    - Median, Quicksort
+    - Dynamic Programming 1
+    - Dynamic Programming 2
+    - Dynamic Programming 3
+    - Dynamic programming 4
 
 labs:
-    - S1 Intros, Java Generics
-    - S2 Asymptotics
-    - S3 Recurrences
-    - S4 AVL Trees
-    - S5 Hashing
-    - S6 Sorting
-    - S7 Graphs
-    - S8 ForkJoin 
-    - S9 Concurrency & Two-Pass parallel
-    - S10 P/NP & Final Review
+    - Stable Matching; Proofs/Induction
+    - Graph Search; Asymptotics
+    - Problem Solving Strategy - Greedy
+    - Problem Solving Strategy - Divide and Conquer
 
 reading:
     Intro; ADTs; Stacks & Queues:
