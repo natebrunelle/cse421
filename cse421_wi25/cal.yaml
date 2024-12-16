@@ -60,8 +60,7 @@ lectures:
     - NP-Completeness 2
     - NP-Completeness 3; Approximation Algorithms
     - Linear Programming Algorithms
-    - Dealing with NP-Completeness
-    - Parameterized Complexity; SAT solvers
+    - Dealing with NP-Completeness; SAT Solvers
     - Finale
 
 labs:
