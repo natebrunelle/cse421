@@ -119,56 +119,49 @@ assignments:
         weight: 1
         files: 'something.java'
         
-    HW2:
+    HW2 Graph Search:
         group: programming
         due: 2025-01-22 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
        
-    HW3:
+    HW3 Greedy:
         group: programming
         due: 2025-01-29 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    HW4:
+    HW4 Divide and Conquer:
         group: programming
         due: 2025-02-05 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
-    HW5:
+    HW5 Dynamic Programming:
         group: programming
         due: 2025-02-12 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    HW6:
-        group: programming
-        due: 2025-02-19 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.java'
-
-    HW7:
+    HW6 DP and Network Flow:
         group: programming
         due: 2025-02-26 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
-    
-    HW8:
+
+    HW7 Network Flow and Linear Programming:
         group: programming
         due: 2025-03-05 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
-        
-    HW9:
+    
+    HW8 Hardness:
         group: programming
         due: 2025-03-12 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
