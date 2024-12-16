@@ -58,11 +58,11 @@ lectures:
     - Linear Programming 2; Duality
     - NP-Completeness 1
     - NP-Completeness 2
-    - NP-Completeness 3
-    - Approximation algorithms
+    - NP-Completeness 3; Approximation Algorithms
     - Linear Programming Algorithms
-    - Dealing with NP-Completenes
+    - Dealing with NP-Completeness
     - Parameterized Complexity; SAT solvers
+    - Finale
 
 labs:
     - S1 Stable Matching; Proofs/Induction
@@ -74,6 +74,7 @@ labs:
     - S7 Network Flow
     - S8 Algorithm Toolbox - Linear Programming
     - S9 NP Completeness
+    - S10 Review
 
 reading:
     Intro; ADTs; Stacks & Queues:
