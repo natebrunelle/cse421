@@ -50,10 +50,10 @@ lectures:
     - Dynamic programming 4
 
 labs:
-    - Stable Matching; Proofs/Induction
-    - Graph Search; Asymptotics
-    - Problem Solving Strategy - Greedy
-    - Problem Solving Strategy - Divide and Conquer
+    - S1 Stable Matching; Proofs/Induction
+    - S2 Graph Search; Asymptotics
+    - S3 Problem Solving Strategy - Greedy
+    - S4 Problem Solving Strategy - Divide and Conquer
 
 reading:
     Intro; ADTs; Stacks & Queues:
