@@ -55,8 +55,14 @@ lectures:
     - Applications of MaxFlow/Mincut 1
     - Applications of MaxFlow/Mincut 2
     - Linear Programming 1
-    - Linear Programming 3; Duality
+    - Linear Programming 2; Duality
     - NP-Completeness 1
+    - NP-Completeness 2
+    - NP-Completeness 3
+    - Approximation algorithms
+    - Linear Programming Algorithms
+    - Dealing with NP-Completenes
+    - Parameterized Complexity; SAT solvers
 
 labs:
     - S1 Stable Matching; Proofs/Induction
