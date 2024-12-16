@@ -48,6 +48,16 @@ lectures:
     - Dynamic Programming 2
     - Dynamic Programming 3
     - Dynamic programming 4
+    - Network Flow
+    - MaxFlow/MinCut
+    - Network Flow in Polynomial Time
+    - Midterm
+    - Applications of MaxFlow/Mincut 1
+    - Applications of MaxFlow/Mincut 2
+    - Linear Programming 1
+    - Linear Programming 2; LP solvers
+    - Linear Programming 3; Duality
+    - NP-Completeness 1
 
 labs:
     - S1 Stable Matching; Proofs/Induction
