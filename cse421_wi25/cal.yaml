@@ -42,7 +42,7 @@ lectures:
     - Greedy Algorithms 2; Dijkstra's algorthm
     - Minimum Spanning Trees
     - Divide and Conquer
-    - Multiplication (Matrix, Integer, Polynomia)
+    - Multiplication (Matrix, Integer, Polynomial)
     - Median, Quicksort
     - Dynamic Programming 1
     - Dynamic Programming 2
@@ -110,109 +110,67 @@ assignments:
             drop: 2
         written:
             portion: "30"
+                    
             
-    Prelim Survey:
+    HW1 Stable Matching:
         group: programming
-        due: 2024-01-05 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'        
-            
-    EX0 Generics:
-        group: programming
-        due: 2024-10-02 23:59:00
+        due: 2025-01-15 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
-    EX1 Running Time:
+    HW2:
         group: programming
-        due: 2024-10-09 23:59:00
+        due: 2025-01-22 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
        
-    EX2 Recurrences:
+    HW3:
         group: programming
-        due: 2024-10-16 23:59:00
+        due: 2025-01-29 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    EX3 Heaps:
+    HW4:
         group: programming
-        due: 2024-10-18 23:59:00
+        due: 2025-02-05 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
-    EX4 AVL:
+    HW5:
         group: programming
-        due: 2024-10-23 23:59:00
+        due: 2025-02-12 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    EX5 Hashing:
+    HW6:
         group: programming
-        due: 2024-10-30 23:59:00
+        due: 2025-02-19 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX6 Sorting:
+    HW7:
         group: programming
-        due: 2024-11-06 23:59:00
+        due: 2025-02-26 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    EX7 Graph Traversals:
+    HW8:
         group: programming
-        due: 2024-11-13 23:59:00
+        due: 2025-03-05 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
-    EX8 Shortest Paths:
+    HW9:
         group: programming
-        due: 2024-11-22 23:59:00
+        due: 2025-03-12 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
-    
-    EX11 MSTs:
-        group: programming
-        due: 2024-12-04 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.java'
-
-    EX9 ForkJoin: 
-        group: programming
-        due: 2024-11-25 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.java'
-
-    EX10 Concurrency:
-        group: programming
-        due: 2024-12-02 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.java'
-
-    EX12 P and NP:
-        group: programming
-        due: 2024-12-06 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.java'
-
-    Resub1:
-        group: programming
-        due: 2024-07-29 23:59:00
-
-    Resub2:
-        group: programming
-        due: 2024-08-17 23:59:00
