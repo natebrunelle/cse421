@@ -76,8 +76,8 @@ labs:
     - S10 Review
 
 reading:
-    Intro; ADTs; Stacks & Queues:
-        - "Weiss 3.1-3.7"
+    Stable Matching:
+        - "K&T: 1.1"
     Algorithm Analysis 1:
         - "Weiss 2.1-2.4, Math Review: Weiss 1.1-1.6"
     Algorithm Analysis 2:
