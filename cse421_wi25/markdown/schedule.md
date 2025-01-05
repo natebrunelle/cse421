@@ -1,5 +1,5 @@
 ---
-title: Autumn 2024 Schedule
+title: Winter 2025 Schedule
 ...
 
 
