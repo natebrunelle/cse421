@@ -2,7 +2,7 @@
 title: Tasks
 ...
 
-All tasks will be submitted and graded on [Gradescope]().
+All tasks will be submitted and graded on [Gradescope](https://www.gradescope.com/courses/939663).
 
 # Homework
 
