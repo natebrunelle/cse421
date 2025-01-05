@@ -35,8 +35,8 @@ labs:
 
 lectures:
     - Intro; Stable Matching
-    - Stable Matching, Overview
-    - Overview, Graph Traversal (BFS)
+    - Stable Matching; Overview
+    - Graph Traversal (BFS)
     - Graph Traversal (DFS & Applications); Topological Sort
     - Greedy Algorithms 1
     - Greedy Algorithms 2; Dijkstra's algorthm
@@ -76,10 +76,10 @@ labs:
     - S10 Review
 
 reading:
-    Stable Matching:
+    Intro; Stable Matching:
         - "K&T: 1.1"
-    Algorithm Analysis 1:
-        - "Weiss 2.1-2.4, Math Review: Weiss 1.1-1.6"
+    Stable Matching; Overview:
+        - "K&T: 1.1"
     Algorithm Analysis 2:
         - "Weiss 2.1-2.4, Math Review: Weiss 1.1-1.6"
     Priority Queues 1 (ADT):
