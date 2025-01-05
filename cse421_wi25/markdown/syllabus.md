@@ -4,13 +4,19 @@ title: Syllabus
 
 # Logistics
 
-## Meetings
+## Lectures
 
-In Person lectures will be held in [CSE2 (Gates Hall)](https://www.washington.edu/maps/#!/CSE2) room G20 at 12:30pm-1:20pm. 
+In person lectures will be held in [CSE2 (Gates Hall)](https://www.washington.edu/maps/#!/CSE2) room G20 at 1:30pm-2:20pm. 
 
 Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Canvas under the Panopto tool.
 
 <!--Both offerings of the course will share the same assignments, deadlines, TA office hours, etc. I will do my best to cover the same content in lectures on the same days, but since different people may learn different topics at different rates, there may be occasional drift. --> 
+
+## Quiz Section
+
+CSE 421 has an associated quiz section on Thursdays and the course will be 3 or 4 credits depending on how you enroll. CSE 421 itself is 3 credits. To get the 4th credit you will need to sign up for CSE 490Z also. 
+
+While enrolling in CSE 490Z is technically optional, in most situations it is to your benefit to do so. CSE490Z has no associated tasks, so enrolling does not increase your workload in the course. Your grade for 490Z will match your grade in CSE421. The only difference in signing up for just CSE421 vs. CSE421 with CSE490Z is the one credit.
 
 ## Contact
 
@@ -18,42 +24,41 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Profiles](staff.html) |
 | Location | Allen Center (CSE) 434 | [See Calendar](oh.html) |
-| Office Hours | Mon 9am-10am, Tue 12pm-2pm, MWF after class | [See Calendar](oh.html) |
+| Office Hours | MW 2:30-4:30 | [See Calendar](oh.html) |
 | Phone |  | (none) |
 | Email | <a href="mailto:brunelle@cs.washington.edu?subject=CSE332">brunelle@cs.washington.edu</a> | use Ed Discussion Board |
 
 For communication about course content, the Ed Discussion Board is preferred to email.
 For communication about personal circumstances, email or is preferred.
-If you email, include either "CSE 332", "332", or "Data Structures" in the subject line to prevent your email from skipping my inbox and never getting read.
+If you email, include either "CSE 421", "421", or "Algorithms" in the subject line to prevent your email from being deprioritized my inbox and resulting in a delayed response.
 
-Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
+Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own scholarship.
 
 
 ## Readings
 
-(Optional) *Data Structures and Algorithm Analysis in Java 3rd Ed.*, Mark Allen Weiss,
-Addison Wesley: 2012, ISBN-10: 0132576279. Our course calendar will list sections of the textbook
-that are most relevant to the topic discussed in class that day. You may find the textbook useful to
-clarify topics and find more examples as well as to examine Java implementations of the data
-structures and algorithms discussed during lecture. We will not be assigning problems from the
-textbook. We will use a set of free on-line notes for the material on parallelism and concurrency.
+There is a textbook associated with the course: "Algorithm Design" by Jon Kleinberg and Éva Tardos, Addison-Wesley, 2006. The International Edition is the same in paperback and there are other ways of accessing the textbook content if you only want online access to it.
+This textbook gives a very good feel for how algorithm designers actually think about designing and analyzing algorithms. The authors wrote the book to be read sequentially, and so random access to the content may result in some confusion.
+
+We will cover almost all of chapters 1-8 of the Kleinberg/Tardos text plus material from later chapters. In addition, we will borrow a small amount of material on divide and conquer algorithms from Introduction to Algorithms: A Creative Approach, by Udi Manber, Addison-Wesley 1989 and possibly other sources. We will make all extra materials (outside of Kleinber/Tardos) available.
 
 
-## Lectures
+## Attendance
 
-I do my best to make lectures as valuable, engaging, and enlightening as possible for all
-students. For a schedule of lecture topics, please see the [course webpage](schedule.html).
-Although we believe nearly all students will benefit from attending all classes, we also respect that as mature (ideally) college students, you are entrusted to figure out how best to learn and make use of your time here. Hence, I will not have any in-class activities which impact your grade with the exception of the already-posted in-class exams (midterm and final). I will make a best effort to post all lecture materials (recordings, slides documents, etc.) on the course webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, and even when they do succeed these recordings may not be an adequate substitute for attending class live.
+I do my best to make lectures and sections as valuable, engaging, and enlightening as possible for all
+students. For a schedule of topics, please see the [course webpage](schedule.html).
+Although we believe nearly all students will benefit from attending all meetings, we also respect that as mature (ideally) college students, you are entrusted to figure out how best to learn and make use of your time here. Hence, we will not have any in-class activities which impact your grade with the exception of the already-posted exams (midterm and final). I will make a best effort to post all lecture materials (recordings, slides documents, etc.) on the course webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, and even when they do succeed these recordings may not be an adequate substitute for attending class live.
 
 
 
 ## Tasks {#tasks}
 
-All assignments will be posted and submitted either in class (for exams) or on Gradescope. All grading will be conducted on Gradescope. You will be asked to perform three kinds of evaluations:
+All assignments will be posted and submitted either in person (for exams) or on Gradescope. All grading will be conducted on Gradescope. You will be asked to perform two categories of evaluations:
 
-- **Exercises**: These are intended to help you to gain experience and familiarity with course concepts by applying them to novel scenarios beyond those presented in lecture and section. These will sometimes be written assignments, but most will be programming tasks (perhaps paired with written activities).  
-<!--- **Resubmissions**: Whereas some courses allow for a small number of assignments to be dropped, in this course all content is required by at least one course listing this one as a prerequisite. For this reason we feel the course should not provide a way for a student to "skip" the experience with a topic. In interest of providing flexibility, you will be able to resubmit 2 assignments - one from the assignments due before the midterm, one from after the midterm. The resubmitted assignment will be graded from scratch, with the new grade replacing the original. -->
-- **Exams**: These are timed and proctored in-class and close-resource exams.These are intended to evaluate the quality of your learning of the most important topics in the course, and to motivate you to study, review, and retroactively reflect upon all that you've learned. Lists of topics and links to past exams will be provided in advance of each exam.
+- **Homework**:  Problems for you to solve, submitted individually as a LaTeX-generated pdf. These are meant to provide opportunities for you to exercise and hone your skills with course concepts. The homework will include two types of probblems:
+    - *Mechanical problems*: for these you will be required to execute an algorithm or give short answers, like an input that causes bad-behavior. These problems are usually shorter and require a surface-level understanding of what was discussed in lectures. There will be approximately one of these problems per homework, they will each be out 10 points.
+    - *Long-form problems*: these tasks require deeper insight than those on the mechanical problems. I recomment that you start early to allow time to work on them through several sittings. I suggest working on the problems in several 1-2 hours sessions, rather than trying to "cram" a set of solutions. There will be approximately three of these problems per homework, they will each be out of 25 points.
+- **Exams**: These are timed and proctored in-person and close-resource exams.These are intended to evaluate the quality of your learning of the most important topics in the course, and to motivate you to study, review, and retroactively reflect upon all that you've learned. Lists of topics and links to past exams will be provided in advance of each exam.
 
 # Grading
 
@@ -61,10 +66,8 @@ We will consider the grade assigned by the following weighted average (of percen
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Exercises                   60%     There will be 13 total, each counting for 5%, with the lowest exercise (other than EX12[^EX12]) grade being dropped.
+Homeworks                   60%     There will be 8 total assignments. This grade will inclue your 7 highest mechanical problems (70 points) and your 20 highest long-form problems (500 points). Therefore this grade will be calculated as a score out of 570 points.
 Exams                       40%     There will be 2 total, a midterm (counting for 15%) and a cumulative final exam (counting for 25%).
-
-[^EX12]: The P vs. NP material will not be included on the final exam, meaning that the ONLY place were that material is assessed is on EX12. For this reason, EX12 is not eligible to be dropped.
 
 This numerical calculation is to be considered a **guideline** on your score in the course. Final grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials.
 
@@ -78,20 +81,15 @@ If your grade is           Then your course GPA will be
 ≥85%                        ≥3.0
 ≥70%                        ≥2.0  
 
-## Deadlines
+## Late Policy 
 
-To facilitate timely feedback, exercises will not be accepted late. That being said, we are happy to consider any request for a deadline extension. These deadline extensions are intended to either grant submission flexibility for students who experience hardship during the open window of the assignment, or to grant a small amount of extra time to students who began the assignment in a timely manner, have made substantial progress before the deadline, but would have their grade be a more accurate reflection of their understanding if a minimal amount of extra time was allotted.
+Instead of late **assignment-days**, we will count late **problem-days** submitted on homeworks (each problem will be its own gradescope submission to facilitate this). You have a total of 10 late problem-days over the course of the quarter. Only 2 of these late days may be used per problem. Without permission from the course instructor, no problems can be submitted more than 48 hours late. Any problems submitted late after you have used your ten late problem-days will receive 50% credit. Problem-days will be allocated greedily, so the first 10 late problem-days will be used on the first late problems, with all late submissions thereafter receiving a grade penalty (i.e. we do not perform any grade-optimization). Problem drops will be decided after lateness penalties are assigned.
 
-To submit an extension request, fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSchLpw3xM6t0xlhMLlaJw3XoEcMTj_yceR4mZh6swH4KTk1oA/viewform?usp=sf_link), providing either:
-
-1) The hardship experienced (a high-level description like "ER visit" is fine, details are unnecessary), as well as the approximate amount of time lost due to the hardship and a suggested replacement deadline.
-1) A description of when you started the assignment, how much progress you've made, where you've gotten stuck, and a suggested replacement deadline.
-
-To ensure that we can respond to these requests before the deadline, please submit the requests no later than 24 hours before the deadline whenever possible. Requests made beyond that window may not be processed before the assignment deadline, and therefore there is a risk of the request being denied after the deadline has already passed. Requests made after this time should include additional justification for why the request was delayed.
+Late submissions are intended to handle the "normal" difficulties during a quarter (midterms in another class, family birthday party to attend, bad colds). If you have a more extreme situation (e.g., an extended illness or a family emergency) contact the course instructor (via email or Ed post) for accommodations.
 
 ## Regrades
 
-We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on exercises and the midterm within either one week of your grade being returned or by Thursday December 12, whichever date is sooner. You will only have 48 hours to submit regrade requests for the final exam.
+We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on exercises and the midterm within either one week of your grade being returned or by the date of the final exam, whichever date is sooner. You will only have 48 hours to submit regrade requests for the final exam.
 
 Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the task. In the case of a misapplication of the rubric, identify specifically what in your submission demonstrates the misapplication and suggest how you believe the rubric should be correctly applied. In the case of a keying error, state and justify why you believe your answer should be considered correct. Disagreement with the existance or weighting of a rubric item is not considered a valid reason for a regrade request.
 
@@ -120,8 +118,8 @@ For Exercises and Programming Projects you may use external materials with the f
 
 - You must attempt each task individually first, you should not consult other resources until you are "stuck".
 - You must understand everything you submit. Do not submit anything you could not explain to a member of the course staff.
-- You **may not** collaborate or seek help from any interactive source except for members of the course staff or other currently-enrolled CSE332 students (this means you may not seek assistance from former CSE332 students, online forums like Chegg or Stackoverflow, or generative AI systems like Chat-GPT).
-- You **must** cite any and every source you consult beyond officially-provided materials (i.e. the optional course texbook, the course webpage, the course staff, or any resources provided through official course channels). Included in your citation, you must identify which components of your submission came from each source (it will be understood that content with no citation is your own exclusive work). Your collaborators are considered to be sources, and so should be cited. An example citation might look like: "I collaborated with Brett Wortzman on the implementation of the peek method, I consulted \url{https://www.w3schools.com/java/java_variables_print.asp} for help with java print syntax, Miya Natsuhara helped me to debug the for loop that begins on line 107 of my code."
+- You **may not** collaborate or seek help from any interactive source except for members of the course staff or other currently-enrolled CSE421 students (this means you may not seek assistance from former CSE421 students, online forums like Chegg or Stackoverflow, or generative AI systems like Chat-GPT).
+- You **must** cite any and every source you consult beyond officially-provided materials (i.e. the optional course texbook, the course webpage, the course staff, or any resources provided through official course channels). Included in your citation, you must identify which components of your submission came from each source (it will be understood that content with no citation is your own exclusive work). Your collaborators are considered to be sources, and so should be cited. An example citation might look like: "I collaborated with Brett Wortzman on solving the recurrence relation, I consulted \url{https://www.geeksforgeeks.org/binary-heap/} for the running times of Binary Heap operations, Miya Natsuhara helped me to identify a corner case in an earlier version of my solution."
 - All collaborations with classmates must be "whiteboard only" (defined below).
 - Do not seek "hints" or entire solutions to the problems. Limit your searching to background information only. (For example, do not consult a GitHub repository posted by a former student.)
 
