@@ -7,7 +7,6 @@ Handy links:
 - [Gradescope]()
 - [Ed Board]()
 - [Lecture Recordings]()
-- [Extension Request]() (requires login with your UW netid)
 
 # Course Description
 
