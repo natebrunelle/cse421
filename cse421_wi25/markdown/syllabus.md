@@ -14,9 +14,9 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 
 ## Quiz Section
 
-CSE 421 has an associated quiz section on Thursdays and the course will be 3 or 4 credits depending on how you enroll. CSE 421 itself is 3 credits. To get the 4th credit you will need to sign up for CSE 490Z also. 
+CSE 421 has an associated quiz section on Thursdays and the course will be 3 or 4 credits depending on how you enroll. CSE 421 itself is 3 credits. To get the 4th credit you will need to sign up for CSE 490D also. 
 
-While enrolling in CSE 490Z is technically optional, in most situations it is to your benefit to do so. CSE490Z has no associated tasks, so enrolling does not increase your workload in the course. Your grade for 490Z will match your grade in CSE421. The only difference in signing up for just CSE421 vs. CSE421 with CSE490Z is the one credit.
+While enrolling in CSE 490D is technically optional, in most situations it is to your benefit to do so. CSE490D has no associated tasks, so enrolling does not increase your workload in the course. Your grade for 490D will match your grade in CSE421. The only difference in signing up for just CSE421 vs. CSE421 with CSE490D is the one credit.
 
 ## Contact
 
