@@ -15,6 +15,7 @@ Techniques for design of efficient algorithms. Methods for showing lower bounds 
 ## Course Goals
 
 CSE 421 is an introduction to algorithms. By the end of this course, you will be able to:
+
 - Model word problems as computational problems.
 - Determine an appropriate algorithm design paradigm for a new problem.
 - Design an algorithm using a variety of algorithm-design paradigms (including greedy algorithms, divide and conquer, dynamic programming, flow modeling, and others).
