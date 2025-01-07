@@ -2,10 +2,11 @@
     slides(pptx): files/slides/lecture1_intro.pptx
     slides(pdf): files/slides/lecture1_intro.pdf
 
-2024-09-26:
-    slides: https://docs.google.com/presentation/d/1MQFhLA7rG3rFcSSCxoGWPO9JJEOblkONoJBQcdGhT1g/edit?usp=sharing
-    handout: https://docs.google.com/document/d/16ovpxuuPDGhDPe5S7aR7-jwLh-7b2ZmbNkA3e8HapMI/edit?usp=sharing
-    solution: https://docs.google.com/document/d/14gwmd8BbHgof4n_yh4q4gUNupSnEm2jWqAMAeoDWQY8/edit?usp=sharing
+2024-01-09:
+    slides(pptx): files/section/section01-slides.pptx
+    slides(pdf): files/section/section01-slides.pdf
+    handout: files/section/section01-handout.pdf
+    solution: files/section/section01-solutions.pdf
     
 2024-09-27:
     slides(pptx): files/slides/lecture2_analysis1.pptx
