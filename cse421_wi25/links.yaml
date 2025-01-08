@@ -1,6 +1,8 @@
 2025-01-06:
     slides(pptx): files/slides/lecture1_intro.pptx
     slides(pdf): files/slides/lecture1_intro.pdf
+    slides(ink): files/slides/lecture1_intro_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5fee198d-b38b-4b09-9a1d-b25d0154cc5d 
 
 2025-01-09:
     slides(pptx): files/section/section01-slides.pptx
@@ -8,10 +10,9 @@
     handout: files/section/section01-handout.pdf
     solution: files/section/section01-solutions.pdf
     
-2024-09-27:
-    slides(pptx): files/slides/lecture2_analysis1.pptx
-    slides(pdf): files/slides/lecture2_analysis1.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7afd02cd-62a3-427b-98f9-b1f601321a78
+2024-01-08:
+    slides(pptx): files/slides/lecture2_stablematching.pptx
+    slides(pdf): files/slides/lecture2_stablematching.pdf
       
 2024-09-30:
     slides (pptx): files/slides/lecture3_analysis2.pptx
