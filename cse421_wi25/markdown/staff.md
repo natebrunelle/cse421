@@ -7,34 +7,42 @@ title: Course Staff
 
 
 
-## Juliette Park
+## Paul Han
 
-Hello!
-My name is Juliette and I’m majoring in Computer Science with a minor in Slavic Literatures. I do research at the Sauro Lab and build websites for Web Impact. Outside school, I love to be a grandma (buy cardigans, make tea, and read) and give my dog kisses. I really look forward to the quarter and what you will all achieve!  
+Hello, I’m a BS/MS student, first time TAing CSE 421. Outside of CS, I'm a big basketball fan, so in my free time I like to follow the NBA a lot - favorite team being Lakers. Excited to be a TA for this class!
 
-## Charles Hamilton-Eppler
+## Jonathan Ly
 
-Hey, all! Charles here. This is my second time TA-ing 332 and my third time overall. In my free time, I like to go hiking and take photos. Excited to meet you all!
+Hello everyone, I'm Jonathan! I'm a fourth year student majoring in computer science. This will be my second time TAing for CSE 421, and I look forward to working with you all! I'm broadly interested in (almost) everything CS theory and mathematics. In my own time, I also game, collect miniatures, and read. I'm always happy to talk about specific topics about this course or otherwise. And I hope everyone will enjoy the course as much as I did!
 
-## Mohamed Awadalla
+## Grant Tannert
 
-Hello! I'm Mohamed, a senior at the Allen School. This is my 6th time TAing 332 and I'm super excited for my final year here. In my free time, I like playing sports and watching F1.
+Hello 👋 I'm Grant. I'm from Jakarta, Indonesia and this is my 5th year studying CS at UW. I enjoy playing basketball, skiing, valorant (I hit ascendant 😤), watching movies, ... (the list goes on). This is my first quarter TAing and I am excited to be here. Looking forward to the quarter with you all!
 
-## Chandni Rajasekaran
+## Owen Boseley
 
-Hi! My name is Chandni and I am currently a BS/MS student majoring in computer science. I am super excited to TA this course for the sixth time, since I've come to see that everything I've learned in this class has been very applicable to internship preparation. Outside of school, I really enjoy drawing and baking. As a shameless plug, I have an instagram account where I post my photorealistic color pencil drawings (username: @chandnidraws). I can't wait to meet everyone this quarter!
+Hey! My name is Owen and I'll be one of your TAs for this coming quarter! I've been TAing for over 6 quarters now, and consider 421 one of my favorite courses. In the classroom my hobbies include theory, instilling a deep love of learning in my students, talking about random niche topics in cs, and telling bad dad jokes in section. Out of the classroom, I love to run, listen to music, play puzzle games, read, and eat a little too much food. Hoping to make this YOUR favorite quarter yet. :)
 
-## Hana Smahi
-Hi everyone! I’m Hana, and I’m currently a second-year student majoring in Computer Science. I’m excited to be one of your 332 TAs this quarter, and I look forward to meeting all of you! I love exploring the outdoors of the PNW through hiking, cycling, paddle boarding, and nature photography. I’m also an avid swimmer, reader, and a huge fan of comedy tv-shows (I’ve watched the office 8 times – and I’m itching to watch it again, don’t judge me). Feel free to reach out if you have any related questions or just want to chat!
+## Glenn Sun
 
-## Amanda Yuan
+Hi everyone, I'm Glenn, a 2nd year PhD student in CS Theory. This is my third time TA'ing 421 and I'm excited to help everyone! Beyond math and CS, I like to cook, play games (both video and board), and go on casual bike rides. Ask me anything about 421, grad school, or whatever else!
 
-Hi, I'm Amanda. I'm a BSMS student and this will be my eigth time TA-ing for CSE 332. I like salted caramel and large hair claws. Best of luck this quarter!
+## Edward Qin
 
-## Sarah Chen
+Hi everyone, I'm Edward! I'm very excited to TA for CSE 421 for the second time. I really enjoyed this class for the foundational algorithms you learn and all the fun problems it exposes you to! Outside of school, I enjoy playing cello and taking walks in new areas. Looking forward to working with you this quarter!
 
-Hi everyone! My name is Sarah, and I’m a third-year majoring in Computer Science. This is my second time TA-ing for CSE 332. I’m from Bellevue, WA, but I grew up in Silicon Valley. Outside of school, I love listening to music (especially 90’s alternative/rock – I’m a huge fan of RHCP, Nirvana, Pearl Jam, Radiohead, Green Day, etc.), playing my guitars, teaching karate, hanging out with my dog (Leo), and reading new books.  So excited to meet all of you! :)
+## Atri Banerjee
 
-## Yafqa Khan
+Hey, I'm Atri! I'm a senior majoring in CS with a minor in Philosophy. Outside of school I like to read, cook, watch movies and play video games. I'm excited to have a great quarter with you all!
 
-Hello! My name is Yafqa, and I’m excited to be your TA this term. I’m passionate about technology and enjoy exploring various fields within computer science. In my free time, I like reading, coding, and hiking. If you ever have any questions about the course or just want to chat about tech, books, or outdoor adventures, feel free to reach out! Looking forward to getting to know everyone!
+## Weizi Wu
+
+Hello! I'm Weizi! I'm a junior double majoring in CS and ACMS. This is my first time being a TA. In my free time, I enjoy reading books and playing sports. If you have any questions about anything or just want to chat, feel free to reach out to me! I'll do my best to help!
+
+## Ajay Harilal
+
+Hey everyone! My name is Ajay, and this is my second time TAing CSE421! Previously, I've TAed CSE122 and 123 for 6 quarters. But Algorithms has been my favorite class that I've taken at UW, so I have always wanted to TA for it as well! Outside of school, I love watching soccer ⚽ and running! Recently, I've been trying to cook a lot, albeit with very questionable results... I look forward to meeting you all this quarter!
+
+## Robert Stevens
+
+Hi, I'm Robert! I'm a senior and I'm excited to be TAing 421 for my 3rd quarter. I'm interested in CS theory and math but especially algorithms and probability. If you have any questions about math, undergraduate research, or being a transfer student feel free to reach out!
