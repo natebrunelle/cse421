@@ -18,7 +18,7 @@ In the homework you will be asked to:
 
 The problem statements can be found in [this pdf](files/homework/homework1_problems.pdf).
 
-You may draft your solutions in Overleaf using this [LaTeX template](files/homework/homework-template.tex) (preferred), in a document (please use the equation editor for all math notation), or hand-written (so long as you are able to do so neatly).
+You may draft your solutions in Overleaf using this [LaTeX template](files/homework/homework1-template.tex) (preferred), in a document (please use the equation editor for all math notation), or hand-written (so long as you are able to do so neatly).
 
 You will submit your solutions to gradescope. Keep in mind that you have a distinct gradescope assignment per problem. Since this assignment has 3 problems, there are 3 distinct gradescope submissions you must make.
 
