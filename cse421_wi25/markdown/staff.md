@@ -9,6 +9,8 @@ title: Course Staff
 
 ## Paul Han
 
+[Paul Han](paulh.png)
+
 Hello, I’m a BS/MS student, first time TAing CSE 421. Outside of CS, I'm a big basketball fan, so in my free time I like to follow the NBA a lot - favorite team being Lakers. Excited to be a TA for this class!
 
 ## Jonathan Ly
