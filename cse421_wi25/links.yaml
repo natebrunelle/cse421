@@ -13,10 +13,14 @@
 2025-01-08:
     slides(pptx): files/slides/lecture2_stablematching.pptx
     slides(pdf): files/slides/lecture2_stablematching.pdf
+    slides(ink): files/slides/lecture2_stablematching_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bc25796-644a-41df-b240-b25d0154cd99
       
 2025-01-10:
-    slides (pptx): files/slides/lecture3_bfs.pptx
-    slides (pdf): files/slides/lecture3_bfs.pdf
+    slides(pptx): files/slides/lecture3_stablematching2.pptx
+    slides(pdf): files/slides/lecture3_stablematching2.pdf
+    slides(ink): files/slides/lecture3_stablematching2_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87759fa9-d9d5-4996-a3f4-b25d0154d1aa
 
 2024-01-13:
     slides(pdf): files/slides/lecture4_asymptotics_graphsearch.pdf
