@@ -14,10 +14,9 @@
     slides(pptx): files/slides/lecture2_stablematching.pptx
     slides(pdf): files/slides/lecture2_stablematching.pdf
       
-2024-09-30:
-    slides (pptx): files/slides/lecture3_analysis2.pptx
-    slides (pdf): files/slides/lecture3_analysis2.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58614c8c-a3bf-4634-a7ff-b1f601321bde
+2025-01-10:
+    slides (pptx): files/slides/lecture3_bfs.pptx
+    slides (pdf): files/slides/lecture3_bfs.pdf
 
 2024-10-02:
     slides(pdf): files/slides/lecture4_analysis3.pdf
