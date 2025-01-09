@@ -18,10 +18,9 @@
     slides (pptx): files/slides/lecture3_bfs.pptx
     slides (pdf): files/slides/lecture3_bfs.pdf
 
-2024-10-02:
-    slides(pdf): files/slides/lecture4_analysis3.pdf
-    slides(pptx): files/slides/lecture4_analysis3.pptx
-    math identities: files/useful_math_identities.pdf
+2024-01-13:
+    slides(pdf): files/slides/lecture4_asymptotics_graphsearch.pdf
+    slides(pptx): files/slides/lecture4_asymptotics_graphsearch.pptx
 
 2024-10-03:
     slides: https://docs.google.com/presentation/d/158ts5QyCQmXn0QGiZ1bjjUm24TCB0uxK/edit?usp=sharing&ouid=100283603951565118803&rtpof=true&sd=true
