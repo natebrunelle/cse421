@@ -24,7 +24,7 @@ While enrolling in CSE 490D is technically optional, in most situations it is to
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Profiles](staff.html) |
 | Location | Allen Center (CSE) 434 | [See Calendar](oh.html) |
-| Office Hours | MW 2:30-4:30 | [See Calendar](oh.html) |
+| Office Hours | MW 2:30-4:30 or [appointment](https://calendar.app.google/NjdeYTguBLqiH3hm8) | [See Calendar](oh.html) |
 | Phone |  | (none) |
 | Email | <a href="mailto:brunelle@cs.washington.edu?subject=CSE332">brunelle@cs.washington.edu</a> | use Ed Discussion Board |
 
