@@ -26,6 +26,10 @@
     slides(pdf): files/slides/lecture4_aysmptotics_graphsearch.pdf
     slides(pptx): files/slides/lecture4_aysmptotics_graphsearch.pptx
 
+2025-01-15:
+    slides(pdf): files/slides/lecture5_graphsearch_greedy.pdf
+    slides(pptx): files/slides/lecture5_graphsearch_greedy.pptx
+
 2024-10-03:
     slides: https://docs.google.com/presentation/d/158ts5QyCQmXn0QGiZ1bjjUm24TCB0uxK/edit?usp=sharing&ouid=100283603951565118803&rtpof=true&sd=true
     handout: https://docs.google.com/document/d/1MDomwuzQqbZlYtPVoTOv1eXfzB3TueXAiMP3zIfY9x8/edit?usp=sharing
