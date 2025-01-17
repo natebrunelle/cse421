@@ -90,10 +90,10 @@ reading:
         - "K&T: 4.1-4.2"
     Greedy Algorithms 2:
         - "K&T:4.4-4.7"
-    Dictionaries 1 (ADT & Binary Search Trees):
-        - "Weiss 4.1-4.3, 4.6"
-    Dictionries 2 (AVL Trees):
-            - " Weiss 4.4"
+    Divide and Conquer:
+        - "K&T 5.1-5.4"
+    Multiplication (Matrix, Integer, Polynomial):
+        - "k&T 5.5-5.6"
     Dictionaries 3 (B-Trees):
         - "Weiss 4.7"
     Dictionaries 4 (B-Trees cont.):
