@@ -25,11 +25,13 @@
 2025-01-13:
     slides(pdf): files/slides/lecture4_aysmptotics_graphsearch.pdf
     slides(pptx): files/slides/lecture4_aysmptotics_graphsearch.pptx
+    slides(ink): files/slides/lecture4_aysmptotics_graphsearch_ink.pdf
     video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbd91eba-4971-4f31-887b-b25d0154d738
 
 2025-01-15:
     slides(pdf): files/slides/lecture5_graphsearch_greedy.pdf
     slides(pptx): files/slides/lecture5_graphsearch_greedy.pptx
+    slides(ink): files/slides/lecture5_graphsearch_greedy_ink.pdf
     video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b79aa2b8-7167-487a-a4e5-b25d0154d83c
 
 2025-01-16:
@@ -41,18 +43,11 @@
 2025-01-17:
     slides(pdf): files/slides/lecture6_greedy.pdf
     slides(pptx): files/slides/lecture6_greedy.pptx
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9734cfb-fd7f-495b-90d0-b25d0154d94c
 
-2024-10-03:
-    slides: https://docs.google.com/presentation/d/158ts5QyCQmXn0QGiZ1bjjUm24TCB0uxK/edit?usp=sharing&ouid=100283603951565118803&rtpof=true&sd=true
-    handout: https://docs.google.com/document/d/1MDomwuzQqbZlYtPVoTOv1eXfzB3TueXAiMP3zIfY9x8/edit?usp=sharing
-    solution: https://docs.google.com/document/d/1bmyJEtscUpv4femduMvLC6YIAOoNapLWn2J-plmyCCA/edit?usp=sharing
-    math identities: files/useful_math_identities.pdf
-    
-2024-10-04:
-    slides (pptx): files/slides/lecture5_recurrences.pptx
-    slides (pdf): files/slides/lecture5_recurrences.pdf
-    slides (ink): files/slides/lecture5_recurrences_ink.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09c7e090-552c-4b7c-baf6-b1f601321ebb
+2025-01-22:
+    slides (pptx): files/slides/lecture7_greedy2.pptx
+    slides (pdf): files/slides/lecture7_greedy2.pdf
 
 2024-10-07:
     slides (pptx): files/slides/lecture6_pqs.pptx
