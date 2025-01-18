@@ -43,12 +43,14 @@
 2025-01-17:
     slides(pdf): files/slides/lecture6_greedy.pdf
     slides(pptx): files/slides/lecture6_greedy.pptx
+    slides(ink): files/slides/lecture6_greedy_ink.pdf
     video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9734cfb-fd7f-495b-90d0-b25d0154d94c
 
 2025-01-22:
     slides (pptx): files/slides/lecture7_greedy2.pptx
     slides (pdf): files/slides/lecture7_greedy2.pdf
     slides (ink): files/slides/lecture7_greedy2_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=19117e59-a8d3-42ce-80e4-b25d0154da40
 
 2025-01-23:
     slides(pptx): files/section/section03-slides.pptx
@@ -60,12 +62,12 @@
 2025-01-24:
     slides (pptx): files/slides/lecture8_greedy3_mst.pptx
     slides (pdf): files/slides/lecture8_greedy3_mst.pdf
+    slides (ink): files/slides/lecture8_greedy3_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5fb6f4b8-9893-4f2d-b5b3-b25d0154db93
 
-2024-10-09:
-    slides (pptx): files/slides/lecture7_heaps.pptx
-    slides (pdf): files/slides/lecture7_heaps.pdf
-    slides (ink): files/slides/lecture7_heaps_ink.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98f07bc9-90e5-4eeb-83e9-b1f60132214c
+2024-01-27:
+    slides (pptx): files/slides/lecture9_divideandconquer.pptx
+    slides (pdf): files/slides/lecture9_divideandconquer.pdf
 
 2024-10-10:
     slides: https://docs.google.com/presentation/d/1LbYaWbJKbNj0uMVvW22yMeHvw5KwXDXOnl25aoXAGdk/edit?usp=sharing
