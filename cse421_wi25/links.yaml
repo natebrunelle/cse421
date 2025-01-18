@@ -48,6 +48,7 @@
 2025-01-22:
     slides (pptx): files/slides/lecture7_greedy2.pptx
     slides (pdf): files/slides/lecture7_greedy2.pdf
+    slides (ink): files/slides/lecture7_greedy2_ink.pdf
 
 2025-01-23:
     slides(pptx): files/section/section03-slides.pptx
@@ -56,11 +57,9 @@
     solution: files/section/section03-solutions.pdf
 
 
-2024-10-07:
-    slides (pptx): files/slides/lecture6_pqs.pptx
-    slides (pdf): files/slides/lecture6_pqs.pdf
-    slides (ink): files/slides/lecture6_pqs_ink.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf5388c-20e2-4cd3-a558-b1f601322010
+2025-01-24:
+    slides (pptx): files/slides/lecture8_greedy3_mst.pptx
+    slides (pdf): files/slides/lecture8_greedy3_mst.pdf
 
 2024-10-09:
     slides (pptx): files/slides/lecture7_heaps.pptx
