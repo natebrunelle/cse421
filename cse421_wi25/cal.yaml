@@ -43,7 +43,7 @@ lectures:
     - Greedy Algorithms 2
     - Greedy Algorithms 3
     - Divide and Conquer
-    - Multiplication (Matrix, Integer, Polynomial)
+    - Multiplication (Matrix, Integer)
     - Median, Quicksort
     - Dynamic Programming 1
     - Dynamic Programming 2
@@ -92,7 +92,7 @@ reading:
         - "K&T:4.4-4.7"
     Divide and Conquer:
         - "K&T 5.1-5.4"
-    Multiplication (Matrix, Integer, Polynomial):
+    Multiplication (Matrix, Integer):
         - "k&T 5.5-5.6"
     Dictionaries 3 (B-Trees):
         - "Weiss 4.7"
