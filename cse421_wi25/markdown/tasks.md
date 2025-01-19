@@ -52,6 +52,20 @@ As always, you may draft your solutions in Overleaf using this [LaTeX template](
 
 You will submit your solutions to gradescope. Keep in mind that you have a distinct gradescope assignment per problem. Since this assignment has 4 problems, there are 4 distinct gradescope submissions you must make.
 
+
+## Homework 4: Divide and Conquer
+
+In this homework you will be asked to:
+
+1. Show how to apply the master theorem to solve recurrence relations, or else show that you can't.
+1. Design and analyze divide and conquer algorithms of your own.
+
+The problem statements can be found in [this pdf](files/homework/homework4_problems.pdf).
+
+As always, you may draft your solutions in Overleaf using this [LaTeX template](files/homework/homework4-template.tex) (preferred), in a document (please use the equation editor for all math notation), or hand-written (so long as you are able to do so neatly). To use the template, download it by clicking the link, then re-upload it to an Overleaf project, then change the compiler to XeLaTeX within the menu (the button in the top-left corner of the page with the Overleaf logo).
+
+You will submit your solutions to gradescope. Keep in mind that you have a distinct gradescope assignment per problem. Since this assignment has 4 problems, there are 4 distinct gradescope submissions you must make.
+
 # Exams
 
 Your midterm exam will be at 6:00pm-7:30pm on Wednesday February 19 in lieue of a normal class meeting. If you anticipate conflicts with this time, please let Prof. Brunelle know during the first week of class.
