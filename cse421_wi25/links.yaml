@@ -81,20 +81,9 @@
     handout: files/section/section04-handout.pdf
     solution: files/section/section04-solutions.pdf
 
-2024-10-10:
-    slides: https://docs.google.com/presentation/d/1LbYaWbJKbNj0uMVvW22yMeHvw5KwXDXOnl25aoXAGdk/edit?usp=sharing
-    handout: https://docs.google.com/document/d/1iznHFkeWNWdKN5IX2WSD-W8q5PoBE283ZZn4AHJrkQQ/edit?usp=sharing
-    solution: https://docs.google.com/document/d/1moYt6cmXcmj0Hh7_TVVt6Ma2ASFGm9C3QzMFaLmeT0o/edit?usp=sharing 
-    math identities: files/useful_math_identities.pdf
-    heap slides: https://docs.google.com/presentation/d/1v-KfJpxU6nY3ITpd5gcS2dCwkiGjAdwPrvVZvpIeeIY/edit?usp=sharing
-    heap handout: https://docs.google.com/document/d/1jqN8Xj-ktaVm5KoiCOgloW9qTf45LzE-4B2MCo8ffSc/edit?usp=sharing
-    heap solution: https://docs.google.com/document/d/1drSjFG08PHiYd3rNPNo9BJx1v0zBUnyre2VgB3RZ2EE/edit?usp=sharing
-    
-2024-10-11:
-    slides (pptx): files/slides/lecture8_heaps_dicts.pptx
-    slides (pdf): files/slides/lecture8_heaps_dicts.pdf
-    slides (ink): files/slides/lecture8_heaps_dicts.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10d37c1b-f128-42cd-8999-b1f601322296
+2025-01-31:
+    slides (pptx): files/slides/lecture11_quicksort_median.pptx
+    slides (pdf): files/slides/lecture11_quicksort_median.pdf
     
 2024-10-14:
     slides (pptx): files/slides/lecture9_avl.pptx 
