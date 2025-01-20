@@ -69,11 +69,13 @@
     slides (pptx): files/slides/lecture9_divideandconquer.pptx
     slides (pdf): files/slides/lecture9_divideandconquer.pdf
     slides (ink): files/slides/lecture9_divideandconquer_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f996c131-04d0-4e56-a099-b25d0154dca0 
 
 2025-01-29:
     slides (pptx): files/slides/lecture10_divideandconquer2.pptx
     slides (pdf): files/slides/lecture10_divideandconquer2.pdf
     slides (ink): files/slides/lecture10_divideandconquer2_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131bb80a-da96-4367-8654-b25d0154ddbc
 
 2025-01-30:
     slides(pptx): files/section/section04-slides.pptx
@@ -84,12 +86,12 @@
 2025-01-31:
     slides (pptx): files/slides/lecture11_quicksort_median.pptx
     slides (pdf): files/slides/lecture11_quicksort_median.pdf
-    
-2024-10-14:
-    slides (pptx): files/slides/lecture9_avl.pptx 
-    slides (pdf): files/slides/lecture9_avl.pdf
-    slides (ink): files/slides/lecture9_avl_ink.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d88cb106-0e01-4afc-84b0-b1f6013223e3
+    slides (ink): files/slides/lecture11_quicksort_median_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e937b25-9a6d-423f-8e44-b25d0154df2a
+
+2025-02-03:
+    slides (pptx): files/slides/lecture12_dp1.pptx 
+    slides (pdf): files/slides/lecture12_dp1.pdf
 
 2024-10-16:
     slides (pptx): files/slides/lecture10_avl2.pptx
