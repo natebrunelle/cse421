@@ -81,6 +81,26 @@ You will submit your solutions to gradescope. Keep in mind that you have a disti
 
 # Exams
 
-Your midterm exam will be at 6:00pm-7:30pm on Wednesday February 19 in lieue of a normal class meeting. If you anticipate conflicts with this time, please let Prof. Brunelle know during the first week of class.
+## Midterm 
 
+Your midterm exam will be at 6:00pm-7:30pm on Wednesday February 19 in [Bagly 131](https://www.washington.edu/maps/#!/BAG) in lieue of a normal class meeting.
+
+You will be permitted 1 letter-sized page, front and back, of notes to reference for the exam. You are welcome to construct that independently or in groups. You may type it or hand-write it. Besides this one page, the exam will otherwise be closed resources (i.e. no textbook, electronics, neighbors, etc.).
+
+The midterm will cover all material from the beginning of the quarter through Dynamic Programming (i.e. everything through Homework 5). This includes all of:
+
+- Stable Matching
+- Graph Algorithms and aymptotic analysis
+- Greedy Algorithms
+- Divide and Conquer Algorithms
+- Dynamic Programming Algorithms.
+
+To give you a sense for what to expect, here are some practice exams for you:
+
+- [practice exam 1](files/exams/practice-midterm-1.pdf) [solutions](files/exams/practice-midterm-1-solutions.pdf))
+- I am working on a second practice exam and will post it here when finished.
+
+We will additionally have a review session at 4:30pm on Tuesday February 18 at a location TBD. During that review session we will discuss practice exam 1. There will be additional review in your regular section on 2/13. Office hours are also certainly a resource for preparing for the exam (Nathan will hold some on Tuesday 2/18 since 2/17 is a holiday).
+
+## Final
 Your final exam will occur at 2:30pm on Monday March 17. Because the course scheduled into the final exam block after ours does not have a final exam, you will have until 5:20pm to take the exam. Again, if you have anticipated conflicts with this time, please let Prof. Brunelle know during the first week of class.
