@@ -97,17 +97,17 @@
 2025-02-05:
     slides (pptx): files/slides/lecture13_dp2.pptx
     slides (pdf): files/slides/lecture13_dp2.pdf
+    slides (ink): files/slides/lecture13_dp2_ink.pdf
 
 2025-02-06:
     slides(pptx): files/section/section05-slides.pptx
     slides(pdf): files/section/section05-slides.pdf
     handout: files/section/section05-handout.pdf
     solution: files/section/section05-solutions.pdf
-    
-2024-10-17:
-    slides: https://docs.google.com/presentation/d/1-tnlFSUYhEyLogpg60iRkXSSTRj_MyPkI8nVyTL440g/edit?usp=sharing
-    handout: https://docs.google.com/document/d/1UYYSN1c8DFh3u5rsOxOHERRrvmreTYFkAqLsE2yDKHA/edit?usp=sharing 
-    solution: https://docs.google.com/document/d/1_DP_1EnADThAiKOdVVik-75-S8QAcZKz5KqEuoWUYJw/edit?usp=sharing
+  
+2025-02-07:
+    slides (pptx): files/slides/lecture14_dp3.pptx
+    slides (pdf): files/slides/lecture14_dp3.pdf
 
 2024-10-21:
     slides (pptx): files/slides/lecture12_hashtables2.pptx
