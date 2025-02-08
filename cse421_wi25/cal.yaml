@@ -100,10 +100,10 @@ reading:
         - "K&T: 6.1-6.2"
     Dynamic Programming 2:
         - "K&T: 6.3-6.6"
-    Dictionaries 5 (Hashing):
-        - "Weiss 5.1-5.5"
-    Dictionaries 6 (Hashing cont.):
-        - "Weiss 5.1-5.5"
+    Dynamic Programming 3:
+        - "K&T: 6.8-6.10"
+    Network Flow:
+        - "K&T: 7.1-7.2"
 
 assignments:
     ".groups":
