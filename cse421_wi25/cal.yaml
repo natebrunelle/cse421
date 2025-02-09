@@ -103,7 +103,9 @@ reading:
     Dynamic Programming 3:
         - "K&T: 6.8-6.10"
     Network Flow:
-        - "K&T: 7.1-7.2"
+        - "K&T: 7.1"
+    MaxFlow/MinCut:
+        - "K&T: 7.2-7.3"
 
 assignments:
     ".groups":
