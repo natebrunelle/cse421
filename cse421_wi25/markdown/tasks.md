@@ -101,7 +101,7 @@ To give you a sense for what to expect, here are some practice exams for you:
 - [practice exam 1](files/exams/practice-midterm-1.pdf) ([solutions](files/exams/practice-midterm-1-solutions.pdf))
 - I am working on a second practice exam and will post it here when finished.
 
-We will additionally have a review session at 4:30pm on Tuesday February 18 at a location TBD. During that review session we will discuss practice exam 1. There will be additional review in your regular section on 2/13. Office hours are also certainly a resource for preparing for the exam (Nathan will hold some on Tuesday 2/18 since 2/17 is a holiday).
+We will additionally have a review session at 4:30pm on Tuesday February 18 in Bagly 131 (i.e. the exam room). During that review session we will discuss practice exam 1. There will be additional review in your regular section on 2/13. Office hours are also certainly a resource for preparing for the exam (Nathan will hold some on Tuesday 2/18 since 2/17 is a holiday).
 
 ## Final
 Your final exam will occur at 2:30pm on Monday March 17. Because the course scheduled into the final exam block after ours does not have a final exam, you will have until 5:20pm to take the exam. Again, if you have anticipated conflicts with this time, please let Prof. Brunelle know during the first week of class.
