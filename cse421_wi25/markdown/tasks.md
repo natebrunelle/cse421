@@ -85,7 +85,8 @@ You will submit your solutions to gradescope. Keep in mind that you have a disti
 
 Your midterm exam will be at 6:00pm-7:30pm on Wednesday February 19 in [Bagly 131](https://www.washington.edu/maps/#!/BAG) in lieue of a normal class meeting.
 
-You will be permitted 1 letter-sized page, front and back, of notes to reference for the exam. You are welcome to construct that independently or in groups. You may type it or hand-write it. Besides this one page, the exam will otherwise be closed resources (i.e. no textbook, electronics, neighbors, etc.).
+You will be permitted 1 letter-sized page, front and back, of notes to reference for the exam. You are welcome to construct that independently or in groups. You may type it or hand-write it. Besides this one page, the exam will otherwise be closed resources (i.e. no textbook, electronics, neighbors, etc.). The exam will additionally have some information provided for you (see what will be included by looking at the practice exam below). It's wortwhile to keep in mind what we include there when designing your personal notes sheet.
+
 
 The midterm will cover all material from the beginning of the quarter through Dynamic Programming (i.e. everything through Homework 5). This includes all of:
 
