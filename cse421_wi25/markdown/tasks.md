@@ -99,7 +99,7 @@ The midterm will cover all material from the beginning of the quarter through Dy
 To give you a sense for what to expect, here are some practice exams for you:
 
 - [practice exam 1](files/exams/practice-midterm-1.pdf) ([solutions](files/exams/practice-midterm-1-solutions.pdf))
-- I am working on a second practice exam and will post it here when finished.
+- [practice exam 2](files/exams/practice-midterm-2.pdf) ([solutions](files/exams/practice-midterm-2-solutions.pdf))
 
 We will additionally have a review session at 4:30pm on Tuesday February 18 in Bagly 131 (i.e. the exam room). During that review session we will discuss practice exam 1. There will be additional review in your regular section on 2/13. Office hours are also certainly a resource for preparing for the exam (Nathan will hold some on Tuesday 2/18 since 2/17 is a holiday).
 
