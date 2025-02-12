@@ -135,11 +135,9 @@
     handout: files/section/section07-handout.pdf
     solution: files/section/section07-solutions.pdf
 
-2024-10-23:
-    slides (pptx): files/slides/lecture13_hashtables3_sorting.pptx
-    slides (pdf): files/slides/lecture13_hashtables3_sorting.pdf
-    slides (ink): files/slides/lecture13_hashtables3_sorting_ink.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8db5e6e-46f5-4a70-bbac-b1f6013228f9
+2025-02-21:
+    slides (pptx): files/slides/lecture18_maxflow_applications.pptx
+    slides (pdf): files/slides/lecture18_maxflow_applications.pdf
     
 2024-10-25:
     slides (pptx): files/slides/lecture14_sorting1.pptx
