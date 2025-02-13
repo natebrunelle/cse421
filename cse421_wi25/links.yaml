@@ -159,11 +159,9 @@
     handout: files/section/section08-handout.pdf
     solution: files/section/section08-solutions.pdf
 
-2024-10-25:
-    slides (pptx): files/slides/lecture14_sorting1.pptx
-    slides (pdf): files/slides/lecture14_sorting1.pdf
-    slides (ink): files/slides/lecture14_sorting_ink.pdf
-    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65ab4963-2fd0-4a8b-a5ed-b1f601322a42
+2025-03-03:
+    slides (pptx): files/slides/lecture22_polynomial_reductions.pptx
+    slides (pdf): files/slides/lecture22_polynomial_reductions.pdf
 
 2024-10-28:
     slides (pptx): files/slides/lecture15_sorting2.pptx
