@@ -93,7 +93,7 @@ As always, you may draft your solutions in Overleaf using this [LaTeX template](
 
 You will submit your solutions to gradescope. Keep in mind that you have a distinct gradescope assignment per problem.
 
-## Homework 6: Dynamic Programming and Max Flow
+## Homework 7: Max Flow and Linear Programming
 
 In this homework you will be asked to:
 
