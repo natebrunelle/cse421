@@ -93,6 +93,20 @@ As always, you may draft your solutions in Overleaf using this [LaTeX template](
 
 You will submit your solutions to gradescope. Keep in mind that you have a distinct gradescope assignment per problem.
 
+## Homework 6: Dynamic Programming and Max Flow
+
+In this homework you will be asked to:
+
+1. Write algorithms which use max flow and reductions
+1. Solve a problem involving linear programming
+1. Design an algorithm combining the ideas of linear programming and max flow
+
+The problem statements can be found in [this pdf](files/homework/homework7_problems.pdf).
+
+As always, you may draft your solutions in Overleaf using this [LaTeX template](files/homework/homework7-template.tex) (preferred), in a document (please use the equation editor for all math notation), or hand-written (so long as you are able to do so neatly). To use the template, download it by clicking the link, then re-upload it to an Overleaf project, then change the compiler to XeLaTeX within the menu (the button in the top-left corner of the page with the Overleaf logo).
+
+You will submit your solutions to gradescope. Keep in mind that you have a distinct gradescope assignment per problem.
+
 # Exams
 
 ## Midterm 
