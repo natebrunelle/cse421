@@ -107,7 +107,7 @@ As always, you may draft your solutions in Overleaf using this [LaTeX template](
 
 You will submit your solutions to gradescope. Keep in mind that you have a distinct gradescope assignment per problem.
 
-## Homework 8: NP Completeness
+## Homework 8: Hardness
 
 In this homework you will be asked to:
 
