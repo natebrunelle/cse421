@@ -106,6 +106,18 @@ reading:
         - "K&T: 7.1"
     MaxFlow/MinCut:
         - "K&T: 7.2-7.3"
+    Network Flow in Polynomial Time:
+        - "K&T: 7.3"
+    Applications of MaxFlow/Mincut 1:
+        - "K&T: 7.5-7.7"
+    Applications of MaxFlow/Mincut 2:
+        - "K&T: 7.10-7.12"
+    Linear Programming 1:
+        - "K&T: 11.6"
+    NP-Completeness 1:
+        - "K&T: 8.1"
+    NP-Completeness 2:
+        - "K&T: 8.2-8.4"
 
 assignments:
     ".groups":
