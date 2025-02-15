@@ -58,9 +58,9 @@ lectures:
     - Linear Programming 2; Duality
     - NP-Completeness 1
     - NP-Completeness 2
-    - NP-Completeness 3; Approximation Algorithms
-    - Linear Programming Algorithms
+    - NP-Completeness 3
     - Dealing with NP-Completeness; SAT Solvers
+    - Linear Programming Algorithms
     - Finale
 
 labs:
