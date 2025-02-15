@@ -156,6 +156,6 @@ The exam is cumulative, and so may include any topic from the entire quarter. In
 - Linear Programming
 - NP Completeness
 
-Expect the exam to contain roughly 8 short answer questions and roughly 4 long-form questions (the exact numbers will depend on the diffucly level of the specific questions selected). We have provided a sample exam below. Note that this sample exam is actually slightly longer than the actual final will be. We provided more questions in the practice in order to demonstrate a broader variety of questions you might see on the actual exam.
+Expect the exam to contain roughly 8 short answer questions and roughly 4 long-form questions (the exact numbers will depend on the diffucly level of the specific questions selected). We have provided a sample exam below. Note that this sample exam is actually slightly longer than the actual final will be (it has 10 short answer and 6 long-form questions). We provided more questions in the practice in order to demonstrate a broader variety of questions you might see on the actual exam.
 
 [practice final](files/exams/practice-final.pdf) ([solutions](files/exams/practice-final-solutions.pdf))
