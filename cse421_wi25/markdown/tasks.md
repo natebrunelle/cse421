@@ -146,4 +146,16 @@ To give you a sense for what to expect, here are some practice exams for you:
 We will additionally have a review session at 4:30pm on Tuesday February 18 in Bagly 131 (i.e. the exam room). During that review session we will discuss practice exam 1. There will be additional review in your regular section on 2/13. Office hours are also certainly a resource for preparing for the exam (Nathan will hold some on Tuesday 2/18 since 2/17 is a holiday).
 
 ## Final
-Your final exam will occur at 2:30pm on Monday March 17. Because the course scheduled into the final exam block after ours does not have a final exam, you will have until 5:20pm to take the exam. Again, if you have anticipated conflicts with this time, please let Prof. Brunelle know during the first week of class.
+Your final exam will occur at 2:30pm on Monday March 17. Because the course scheduled into the final exam block after ours does not have a final exam, you will have until 5:20pm to take the exam. Again, if you have anticipated conflicts with this time, please let Prof. Brunelle.
+
+You will be permitted 1 letter-sized page, front and back, of notes to reference for the exam. You are welcome to construct that independently or in groups. You may type it or hand-write it. Besides this one page, the exam will otherwise be closed resources (i.e. no textbook, electronics, neighbors, etc.). The exam will additionally have some information provided for you (see what will be included by looking at the practice exam below). It's wortwhile to keep in mind what we include there when designing your personal notes sheet.
+
+The exam is cumulative, and so may include any topic from the entire quarter. In particular, this means all midterm content as well as:
+
+- Max flow, min cut, and applications thereof
+- Linear Programming
+- NP Completeness
+
+Expect the exam to contain roughly 8 short answer questions and roughly 4 long-form questions (the exact numbers will depend on the diffucly level of the specific questions selected). We have provided a sample exam below. Note that this sample exam is actually slightly longer than the actual final will be. We provided more questions in the practice in order to demonstrate a broader variety of questions you might see on the actual exam.
+
+[practice final](files/exams/practice-final.pdf) ([solutions](files/exams/practice-final-solutions.pdf))
