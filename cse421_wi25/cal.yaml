@@ -59,9 +59,9 @@ lectures:
     - NP-Completeness 1
     - NP-Completeness 2
     - NP-Completeness 3
+    - NP-Completeness 4
     - Dealing with NP-Completeness; SAT Solvers
     - Linear Programming Algorithms
-    - Finale
 
 labs:
     - S1 Stable Matching; Proofs/Induction
