@@ -160,4 +160,4 @@ Expect the exam to contain roughly 8 short answer questions and roughly 4 long-f
 
 [practice final](files/exams/practice-final.pdf) ([solutions](files/exams/practice-final-solutions.pdf))
 
-We will discuss this practice exam during a review session on Friday 3/14 4:30pm-6:30pm. The location is TBD at this time.
+We will discuss this practice exam during a review session on Friday 3/14 4:30pm-6:30pm in CSE2 room G20.
